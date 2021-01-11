@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact
+    title: C
     align: center
     actions: []
   - type: contact_section
