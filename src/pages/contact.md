@@ -1,6 +1,5 @@
 ---
 title: Contact
-sections:
-  - type: contact_section
+sections: []
 template: advanced
 ---
