@@ -46,5 +46,8 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 template: advanced
 ---
