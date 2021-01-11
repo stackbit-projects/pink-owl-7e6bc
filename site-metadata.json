@@ -26,7 +26,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/contacts",
+                "url": "/contact/",
                 "style": "primary"
             }
         ]
