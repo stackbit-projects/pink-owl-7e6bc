@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: ''
 sections: []
 template: advanced
 ---
