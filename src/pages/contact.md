@@ -1,6 +1,5 @@
 ---
 title: Login
-sections:
-  - type: contact_section
+sections: []
 template: advanced
 ---
